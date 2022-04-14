@@ -1,0 +1,53 @@
+/* Sean Kelly 4/13/2022 */
+.header{ 
+    height:100px;
+    background-color: bisque;
+    line-height: 100px; /* same as our height */
+}
+.mainBody{
+    position: static;
+    background-color:beige
+    ;
+
+}
+.footer{
+    height: 50px;
+    background-color: bisque;
+    color: black;
+    line-height: 50px;
+}
+
+
+img{
+    width:25%;    /* makes the width 25% of the screen */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.common{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+.size{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h1{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.right{
+    text-align: right;
+    text-decoration: none;
+}
